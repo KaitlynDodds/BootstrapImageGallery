@@ -11,6 +11,10 @@ LIGHT GRAY: #ecf0f1
 /*throw away*/
 
 
+body {
+    padding-top: 70px;
+}
+
 /* Navbar Styles */
 .navbar {
     background: #2c3e50;
@@ -20,6 +24,16 @@ LIGHT GRAY: #ecf0f1
     color: white;
 }
 
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+/* Jumbotron Styles*/
+
+.jumbotron {
+    color:#2c3e50;
+    background: #ecf0f1;
+}
 
 /* Image Grid Styles */
 
