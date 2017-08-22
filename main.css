@@ -19,3 +19,11 @@ LIGHT GRAY: #ecf0f1
 .navbar .nav > li > a {
     color: white;
 }
+
+
+/* Image Grid Styles */
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
