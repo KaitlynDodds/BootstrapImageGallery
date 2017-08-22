@@ -19,3 +19,11 @@ DARK BLUE: #2c3e50
 LIGHT GRAY: #ecf0f1
 =============
 */
+
+.navbar {
+    background: #2c3e50;
+}
+
+.navbar .nav > li > a {
+    color: white;
+}
